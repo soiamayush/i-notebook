@@ -4,7 +4,7 @@ import "./Login.css"
 
 
 const Login = (props) => {
-    const host = "http://localhost:5000";
+    const host = "https://soiamayush.github.io";
 
     const [credentials, setCredentials] = useState({ email: "", password: "" })
     let history = useHistory();
