@@ -1,0 +1,9 @@
+.homecontainer{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url("./background.jpg");
+    /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url("./components/video-2.mp4"); */
+   /* width: 100vw; */
+    background-size : cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+  }
